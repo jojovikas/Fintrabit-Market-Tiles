@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* add dark theme base and skeleton animations later */
+/* body {
+  background-color: black;
+} */
